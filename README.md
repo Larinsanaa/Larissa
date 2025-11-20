@@ -1,5 +1,5 @@
 # Hi, I'm Larissa 👋 <p align="center">
-  <img src="https://raw.githubusercontent.com/Larinsanaa/Larinsanaa/main/imagens/3ce9ac76be2c4f04ec5f2f949f09d885.gif" width="200" />
+  <img src="https://raw.githubusercontent.com/Larinsanaa/Larissa/main/imagens/3ce9ac76be2c4f04ec5f2f949f09d885.gif" width="200" />
 </p>
 
 
