@@ -4,11 +4,6 @@
  Estudando **JavaScript**, **Vue** e **React**  
  Apaixonada por interfaces bonitas, acessíveis e bem organizadas
 
----
-
-# Hi, I'm Larissa 👋
-
-
 ```js
 const larissa = {
   code: ["JavaScript", "TypeScript"],
