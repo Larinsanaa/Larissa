@@ -8,7 +8,6 @@
 
 # Hi, I'm Larissa 👋
 
-### const larissa = {
 
 ```js
 const larissa = {
