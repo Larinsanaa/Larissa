@@ -1,11 +1,12 @@
-# Hi, I'm Larissa 👋 <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Larinsanaa/Larissa/main/imagens/3ce9ac76be2c4f04ec5f2f949f09d885.gif" width="200" />
 </p>
 
+# Hi, I'm Larissa 👋
 
- Front-end developer focado em **Angular** e **TypeScript**  
- Estudando **JavaScript**, **Vue** e **React**  
- Apaixonada por interfaces bonitas, acessíveis e bem organizadas
+Front-end developer focado em **Angular** e **TypeScript**  
+Estudando **JavaScript**, **Vue** e **React**  
+Apaixonada por interfaces bonitas, acessíveis e bem organizadas  
 
 ```js
 const larissa = {
@@ -15,4 +16,3 @@ const larissa = {
   loves: ["UI/UX", "Design System"],
   languages: ["Portuguese-BR", "English"]
 }
-
