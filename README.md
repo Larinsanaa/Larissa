@@ -8,10 +8,10 @@
 
 # Hi, I'm Larissa 👋
 
-### const felipe = {
+### const larissa = {
 
 ```js
-const felipe = {
+const larissa = {
   code: ["JavaScript", "TypeScript"],
   frameworks: ["Angular", "Vue", "React"],
   tools: ["Node.js", "Git", "Figma"],
