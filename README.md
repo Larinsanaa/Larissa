@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larinsanaa&show_icons=true&theme=radical)
 <p align="center">
   <img src="imagens/200w.gif" width="200" />
 </p>
